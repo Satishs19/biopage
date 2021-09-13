@@ -1,10 +1,3 @@
-/**
-* Template Name: MeFamily - v4.3.0
-* Template URL: https://bootstrapmade.com/family-multipurpose-html-bootstrap-template-free/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -497,7 +490,6 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #006fbe;
   bottom: 0;
   left: calc(50% - 20px);
 }
